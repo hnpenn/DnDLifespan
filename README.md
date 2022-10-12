@@ -16,4 +16,4 @@ While none of the nine tested models were perfect, Model 8, which took the signi
 * All .odc files can be run individually in Winbugs independent of the accompanying .csv files. 
 * 4d6.py is a file where I simulate stat generation techniques for imputing data.
 * PC Winbugs Data.csv is the original data file, while PC_Winbugs_Final.csv is the data cleaned and prepared for analysis.
-* Project-Penn.pdf is a pdf write-up of the project methodology
+* Project-Penn.pdf is a pdf write-up of the project methodology and results
