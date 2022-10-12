@@ -1,6 +1,6 @@
 # DnDLifespan
 
-##About
+## About
 
 In my own life, one of my favorite hobbies is playing the Tabletop Role-playing Game Dungeons and Dragons (D&D). In the game, players create a player character (PC) that they use to tell a collaborative story with others.
 
@@ -9,3 +9,8 @@ Over the years, I've collected data for thirty-one of the characters that I've c
 Using Bayesian techniques including censoring, prior selection, and model selection, I created nine regression models from my own data to analyze which factors, both involving the campaign itself and the characters I make, to determine which factors most affect the lifespan of a character. For example, are characters where I play with strangers more likely to have short lifespans due to less accountability in continuing the campaign? Are there certain character traits that I'm subconsciously less enthusiastic about, which would inadvertently shorten the campaign and character's lifespan?
 
 While none of the nine tested models were perfect, Model 8, which took the significant variables from the full normal model, was the best compromise between good prediction and overfitting. Overall, the best model thus far showed a mixture of internal and external factors influencing a PC's lifespan in my own D&D games. Notably, these factors include character stats, the ending of the game, character gender, the number of players, and the format that the game is played through. The heavily imputed variables did not have an impact on the final model.
+
+
+### Running the project
+
+All .odc files can be run individually in Winbugs independent of the accompanying .csv files. 
