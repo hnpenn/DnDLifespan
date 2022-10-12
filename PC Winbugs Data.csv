@@ -1,0 +1,32 @@
+﻿Name,Type,Attempt,Gender,Age,First,Last,Span (Days),Span (Months),Start Season,Battle?,Start Level,End Level,Level Up,Days Per Level,Active,Cause,Players,Know DM,First Battle,Time until first battle,Height,Caster,Str,Dex,Con,Int,Wis,Cha
+Nikeizah,PBP,1,Man,20,19-Dec,22-Jan,784,25,Fall,Yes,1,7,Yes,112,Yes,N/A,4,Yes,19-Dec,15,73,Full,9,17,14,14,8,19
+Selig,PBP,1,Man,22,18-Apr,20-Jan,641,21,Spring,Yes,1,6,Yes,107,No,Campaign Rebirth,2,Yes,18-Apr,0,68,Half,15,18,14,12,16,10
+Peter,PBP,1,Man,21,20-Sep,22-Apr,559,18,Fall,Yes,7,9,Yes,186,Yes,N/A,3,Yes,20-Sep,2,72,Half,11,18,16,18,8,12
+Lee,Live,1,Nonbinary,18,20-Feb,21-Apr,438,14,Winter,Yes,1,8,Yes,55,No,Campaign End,4,No,20-Mar,49,68,Full,14,12,14,12,18,8
+Linden,Live,1,Woman,26,21-Jan,22-Mar,434,14,Winter,Yes,6,10,Yes,87,Yes,N/A,6,Yes,21-Jan,0,60,Full,10,16,14,18,12,14
+Otis,Live,1,Man,30,17-Nov,18-Dec,395,12,Fall,Yes,1,4,Yes,99,No,Campaign End,4,Yes,17-Nov,0,36,Full,12,15,12,8,10,16
+Arkady,PBP,2,Man,21,21-Apr,22-Apr,349,11,Spring,Yes,1,6,Yes,58,Yes,N/A,4,Yes,21-May,28,68,Full,8,14,16,10,12,19
+Alder,PBP,1,Man,23,21-Apr,21-Dec,224,7,Spring,Yes,1,2,Yes,112,No,Campaign End,4,No,21-May,3,N/A,None,10,16,15,10,8,14
+Marr,PBP,1,Woman,25,20-Oct,21-May,202,6,Fall,Yes,6,6,No,202,No,Campaign End,6,No,20-Nov,30,N/A,None,12,18,14,10,10,15
+Gvidon,PBP,1,Man,20,21-Aug,22-Mar,190,6,Summer,Yes,1,2,Yes,95,Yes,N/A,3,Yes,21-Aug,3,69,Half,16,10,13,8,12,18
+Xanthe,Live,1,Woman,N/A,20-Oct,21-Apr,178,5,Fall,Yes,9,9,No,178,No,Campaign End,4,Yes,20-Oct,0,N/A,Full,13,16,14,10,18,9
+Rhyaedar,PBP,1,Woman,110,20-May,20-Sep,112,3,Spring,Yes,1,2,Yes,56,No,Campaign End,4,No,20-Jun,22,N/A,Full,10,14,13,14,17,11
+Mort,PBP,1,Man,32,20-Sep,21-Jan,107,3,Fall,Yes,2,2,No,107,No,PC Death,4,Yes,20-Sep,7,N/A,Full,10,14,16,10,12,17
+Tandaradei,PBP,1,Woman,N/A,20-Jun,20-Sep,89,2,Spring,Yes,3,3,No,89,No,Campaign Hiatus,3,Yes,20-Jun,5,73,Full,10,14,16,16,13,10
+Arkady,PBP,1,Man,21,21-Jan,21-Mar,84,2,Winter,Yes,2,3,Yes,42,No,Campaign End,4,Yes,21-Mar,73,N/A,Full,8,13,16,10,13,17
+Selig,PBP,1,Man,22,21-Oct,22-Jan,83,2,Fall,Yes,4,4,No,83,Yes,N/A,4,Yes,21-Nov,29,68,Half,10,20,16,12,17,8
+Beatrix,PBP,1,Woman,29,21-May,21-Jul,59,1,Spring,Yes,1,1,No,59,No,Campaign Hiatus,3,Yes,21-Jun,8,63,Full,10,16,14,9,16,12
+Rhamnousia,Live,1,Woman,N/A,21-Oct,21-Dec,56,1,Fall,Yes,15,15,No,56,No,Campaign Finish,6,Yes,21-Oct,0,37,Full,13,10,18,12,20,8
+Yoshiko,PBP,1,Woman,26,19-Jul,19-Aug,45,1,Summer,Yes,1,1,No,45,No,Campaign Rebirth,4,Yes,19-Jul,12,64,Full,9,16,15,13,18,12
+Naila,PBP,1,Woman,N/A,21-Aug,21-Oct,39,1,Summer,No,1,1,No,39,No,Campaign Fizzled,3,Yes,N/A,-1,N/A,Full,8,9,9,7,10,9
+Avital,PBP,1,Nonbinary,23,21-Nov,21-Dec,30,0,Fall,No,6,6,No,30,No,Campaign Fizzled,6,Yes,N/A,-1,N/A,Full,8,12,14,10,14,19
+Lee,Live,2,Nonbinary,22,22-Mar,22-Mar,28,0,Winter,No,3,3,No,28,Yes,N/A,4,Yes,22-Mar,0,67,Full,13,10,14,14,17,8
+Soleil,PBP,1,Woman,25,22-Feb,22-Mar,26,0,Winter,No,3,3,No,26,Yes,N/A,3,Yes,N/A,N/A,N/A,Full,8,14,14,19,12,12
+Rhayader,PBP,1,Woman,N/A,18-Dec,19-Jan,24,0,Winter,Yes,1,1,No,24,No,Campaign Fizzled,3,Yes,18-Dec,6,70,Full,12,16,15,7,9,19
+Todd,PBP,1,Man,N/A,19-Dec,19-Dec,14,0,Fall,No,1,1,No,14,No,Campaign End,5,No,N/A,-1,N/A,Half,16,14,14,10,12,8
+Damaris,PBP,1,Woman,N/A,20-Dec,20-Dec,13,0,Fall,No,1,1,No,13,No,Campaign Fizzled,4,Yes,N/A,-1,72,Full,14,14,14,9,11,18
+Ahinoam,PBP,1,Woman,N/A,21-Sep,21-Sep,6,0,Summer,No,1,1,No,6,No,Campaign Fizzled,3,Yes,N/A,-1,N/A,None,10,11,10,10,7,10
+Kizhe,PBP,1,Man,17,19-May,19-Jun,5,0,Spring,No,1,1,No,5,No,Campaign Fizzled,4,Yes,N/A,-1,67,Full,10,12,16,17,12,8
+Abrikos,PBP,1,Woman,N/A,19-Oct,19-Oct,4,0,Fall,No,1,1,No,4,No,Campaign Fizzled,3,Yes,N/A,-1,N/A,None,N/A,N/A,N/A,N/A,N/A,N/A
+Yasrakdiirn,PBP,1,Man,N/A,19-Jul,19-Jul,2,0,Summer,No,1,1,No,2,No,Campaign Fizzled,3,Yes,N/A,-1,62,None,10,18,12,15,10,14
+Thomas,PBP,1,Man,N/A,20-Aug,20-Aug,0,0,Summer,No,1,1,No,0,No,Left Campaign,4,No,N/A,-1,N/A,Full,14,14,13,18,15,7
